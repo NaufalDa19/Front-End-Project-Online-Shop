@@ -51,7 +51,7 @@ class ProductCard extends StatelessWidget {
                     height: 6,
                   ),
                   Text(
-                    'COURT VISION 2.0',
+                    'COURT VISION 2.0,jajadawbdjabdwjabdjabwjdba',
                     style: thirdTextStyle.copyWith(
                       fontSize: 18,
                       fontWeight: semiBold,
